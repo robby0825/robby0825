@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Template Name: Robby
 Template URL: 
 Author: BootstrapMade.com
